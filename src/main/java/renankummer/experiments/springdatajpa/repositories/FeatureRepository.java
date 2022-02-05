@@ -1,10 +1,10 @@
-package renankummer.experiments.springdatabase.repositories;
+package renankummer.experiments.springdatajpa.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
-import renankummer.experiments.springdatabase.entities.Feature;
+import renankummer.experiments.springdatajpa.entities.Feature;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package renankummer.experiments.springdatabase.entities;
+package renankummer.experiments.springdatajpa.entities;
 
 import javax.persistence.*;
 
