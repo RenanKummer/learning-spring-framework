@@ -1,8 +1,6 @@
-# Spring Database
-This project experiments with Spring libraries for interacting with databases.
-
-## Libraries
-- Spring Data JPA
+# Overview
+This project experiments with Spring Data JPA library to interact with databases.
 
 ## Experiments
 - How to update multiple rows at once to distinct values using JPQL?
+- How to retrieve data from multiple tables as single entity?
